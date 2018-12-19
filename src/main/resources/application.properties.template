@@ -1,0 +1,12 @@
+## Endpoints configurable urls
+
+endpoint.pasta=${PASTA_ENDPOINT}
+endpoint.pasta.by_name=${PASTA_BY_NAME_ENDPOINT}
+endpoint.pasta.random=${PASTA_RANDOM_ENDPOINT}
+
+database.url=${DB_URL}
+database.name=${DB_NAME}
+database.port=${DB_PORT}
+database.user=${DB_USER}
+database.password=${DB_PASSWORD}
+spring.jpa.hibernate.ddl-auto=create
